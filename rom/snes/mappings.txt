@@ -1,0 +1,17 @@
+000.sfc -> Addams Family, The (USA).sfc
+001.sfc -> Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).sfc
+002.sfc -> Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).sfc
+003.sfc -> Donkey Kong Country (USA).sfc
+004.sfc -> Legend of Zelda, The - A Link to the Past (USA).sfc
+005.sfc -> Mario Paint (Japan, USA) (En).sfc
+006.sfc -> New Super Mario Land (World) (v.1.5) (Aftermarket) (Unl).sfc
+007.sfc -> Super Mario All-Stars + Super Mario World (USA).sfc
+008.sfc -> Super Mario All-Stars (USA).sfc
+009.sfc -> Super Mario Kart (USA).sfc
+00a.sfc -> Super Mario RPG (Japan).sfc
+00b.sfc -> Super Mario World 2 - Yoshi's Island (USA).sfc
+00c.sfc -> Super Mario World (USA).sfc
+00d.sfc -> Super Metroid (Japan, USA) (En,Ja).sfc
+00e.sfc -> Tetris 2 (USA).sfc
+00f.sfc -> Tetris Attack (USA) (En,Ja).sfc
+010.sfc -> Tetris & Dr. Mario (USA).sfc
