@@ -1,0 +1,29 @@
+000.md -> Comix Zone (USA).md
+001.md -> Dune II - The Battle for Arrakis (Europe).md
+002.md -> Dune - The Battle for Arrakis (USA).md
+003.md -> Earthworm Jim 2 (USA).md
+004.md -> Earthworm Jim (USA).md
+005.md -> Golden Axe III (Japan) (En).md
+006.md -> Golden Axe II (World).md
+007.md -> Golden Axe (World).md
+008.md -> Mega Bomberman (USA).md
+009.md -> Michael Jackson's Moonwalker (World) (Rev A).md
+00a.md -> Mortal Kombat 3 (USA).md
+00b.md -> Mortal Kombat II (World).md
+00c.md -> Mortal Kombat (World).md
+00d.md -> Sonic 3D Blast (USA, Europe, Korea) (En).md
+00e.md -> Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Beta) (1994-05-24).md
+00f.md -> Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-on Combination).md
+010.md -> Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination).md
+011.bin -> Sonic & Knuckles (World) (Lock-on).bin
+012.md -> Sonic & Knuckles (World).md
+013.md -> Sonic Spinball (USA).md
+014.md -> Sonic The Hedgehog 2 (World).md
+015.md -> Sonic The Hedgehog 3 (USA).md
+016.md -> Sonic The Hedgehog (USA, Europe).md
+017.md -> Street Fighter II' - Special Champion Edition (USA).md
+018.md -> Super Street Fighter II (USA).md
+019.md -> Teenage Mutant Hero Turtles - Tournament Fighters (Europe).md
+01a.md -> Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md
+01b.md -> Teenage Mutant Ninja Turtles - Tournament Fighters (USA).md
+01c.md -> Ultimate Mortal Kombat 3 (USA).md
