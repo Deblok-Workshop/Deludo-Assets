@@ -1,0 +1,32 @@
+000.nes -> Contra Force (USA).nes
+001.nes -> Contra (USA).nes
+002.nes -> Dr. Mario (Europe).nes
+003.nes -> Duck Hunt (World).nes
+004.nes -> DuckTales 2 (USA).nes
+005.nes -> DuckTales (USA).nes
+006.nes -> Final Fantasy III (Japan).nes
+007.nes -> Final Fantasy II (Japan).nes
+008.nes -> Final Fantasy (USA).nes
+009.nes -> Kirby's Adventure (USA).nes
+00a.nes -> Mario Bros. (World).nes
+00b.nes -> Mario is Missing! (USA).nes
+00c.nes -> Mario's Time Machine (USA).nes
+00d.nes -> Mega Man 2 (USA).nes
+00e.nes -> Mega Man 3 (USA).nes
+00f.nes -> Mega Man 4 (USA).nes
+010.nes -> Mega Man 5 (USA).nes
+011.nes -> Mega Man 6 (USA).nes
+012.nes -> Mega Man (USA).nes
+013.nes -> Metroid (USA).nes
+014.nes -> Mike Tyson's Punch-Out!! (Japan, USA) (En).nes
+015.nes -> Punch-Out!! (USA).nes
+016.nes -> R.C. Pro-Am II (USA).nes
+017.nes -> R.C. Pro-Am (USA).nes
+018.nes -> Super Contra (Japan).nes
+019.nes -> Super Mario Bros. 2 (USA).nes
+01a.nes -> Super Mario Bros. 3 (USA).nes
+01b.nes -> Super Mario Bros. + Duck Hunt (USA).nes
+01c.nes -> Super Mario Bros. + Tetris + Nintendo World Cup (Europe).nes
+01d.nes -> Super Mario Bros. (World).nes
+01e.nes -> Tetris 2 (USA).nes
+01f.nes -> Tetris (USA).nes
