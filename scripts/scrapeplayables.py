@@ -23,7 +23,7 @@ for i in range(len(playables)):
             print("info: this is not a usercontent.goog domain, the game might be double iframed.")
             print("info: i'm stopping here, this might be a gamesnacks game.")
         
-        scraped[playables[i][0].replace(" ","-").lower()] = url_value
+        scraped[playables[i][0].replace(" ","-").replace("'","").lower()] = url_value
         
     else:
         print("error: Non-200 status code recieved: ", response.status_code)
