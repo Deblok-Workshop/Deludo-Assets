@@ -1,6 +1,5 @@
 import json
 import requests
-from bs4 import BeautifulSoup
 with open("playables.txt", "r") as file:
     playables = file.read()
 
