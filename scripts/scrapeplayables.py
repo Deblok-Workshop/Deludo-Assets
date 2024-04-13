@@ -5,9 +5,8 @@ with open("playables.txt", "r") as file:
     playables = file.read()
 
 playables = json.loads(playables)
-print(playables)
 scraped = {}
-for i in len(playables):
+for i in range(len(playables)):
     print("info: scraping", playables[i][0])
     url = playables[i][1]
     response = requests.get(url)
