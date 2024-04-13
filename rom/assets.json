@@ -1,0 +1,20 @@
+{
+    "megadrive": [
+        {
+            "name":"placeholder",
+            "id": "000"
+        }
+    ],
+    "nes": [
+        {
+            "name":"placeholder",
+            "id": "000"
+        }
+    ],
+    "snes": [
+        {
+            "name":"placeholder",
+            "id": "000"
+        }
+    ]
+}
