@@ -1,8 +1,19 @@
 {
     "html": [
         {
-            "name":"placeholder",
-            "id": "000"
+            "name":"1",
+            "id": "000",
+            "entrypoint":"index.html"
+        },
+        {
+            "name":"1v1lol",
+            "id": "001",
+            "entrypoint":"index.html"
+        },
+        {
+            "name":"2048",
+            "id": "002",
+            "entrypoint":"index.html"
         }
     ]
 }
