@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <button style="font-size:9px;z-index:1000000000000;position:fixed;top:6px;left:6px;" onclick="full()">Unbreak</button>
+    <script>
+        function full() {
+            document.querySelector("iframe").focus()
+        }
+        async function decompress(url) {
+    try {
+      const res = await fetch(url);
+      const blob = await res.blob();
+      const decompressed = await decompressBlob(blob);
+      const durl = URL.createObjectURL(decompressed);
+      // document.write(await decompressed.text());
+      const iframe = document.createElement('iframe');
+      iframe.style.position = 'absolute';
+      iframe.style.top = '0';
+      iframe.style.left = '0';
+      iframe.style.width = '100%';
+      iframe.style.height = '100%';
+      iframe.src = durl;
+      iframe.sandbox = "allow-pointer-lock allow-scripts allow-modals allow-forms allow-top-navigation allow-same-origin allow-popups"
+      iframe.allowFullscreen = true;
+      document.body.appendChild(iframe);
+      
+    } catch (error) {
+        document.write(`Error: <pre>${error}</pre>`)
+    }
+  }
+  
+  async function decompressBlob(blob) {
+    const ds = new DecompressionStream("gzip");
+    const decompressedStream = blob.stream().pipeThrough(ds);
+    return await new Response(decompressedStream).blob();
+  }
+    (async () => {
+        try {
+        await decompress(document.location.hash.slice(1))
+        setTimeout(()=>{
+            document.querySelector("iframe").focus()
+        },200)
+        } catch {
+            document.write("Invalid input.")
+        }
+    })();
+  </script>
+</body>
+</html>
