@@ -6,13 +6,43 @@
             "entrypoint":"index.html"
         },
         {
-            "name":"1v1lol",
+            "name":"1v1.lol",
             "id": "001",
             "entrypoint":"index.html"
         },
         {
             "name":"2048",
             "id": "002",
+            "entrypoint":"index.html"
+        },
+        {
+            "name":"2048 Multitask",
+            "id": "003",
+            "entrypoint":"index.html"
+        },
+        {
+            "name":"9007199254740992",
+            "id": "004",
+            "entrypoint":"index.html"
+        },
+        {
+            "name":"Basketball Stars",
+            "id": "006",
+            "entrypoint":"index.html"
+        },
+        {
+            "name":"Basket Random",
+            "id": "007",
+            "entrypoint":"index.html"
+        },
+        {
+            "name":"Boxing Random",
+            "id": "008",
+            "entrypoint":"index.html"
+        },
+        {
+            "name":"Cannon Basketball 4",
+            "id": "009",
             "entrypoint":"index.html"
         }
     ]
