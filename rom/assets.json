@@ -1,20 +1,320 @@
 {
     "megadrive": [
         {
-            "name":"placeholder",
-            "id": "000"
+            "name": "Comix Zone (USA)",
+            "id": "000.md"
+        },
+        {
+            "name": "Dune II   The Battle For Arrakis (Europe)",
+            "id": "001.md"
+        },
+        {
+            "name": "Dune   The Battle For Arrakis (USA)",
+            "id": "002.md"
+        },
+        {
+            "name": "Earthworm Jim 2 (USA)",
+            "id": "003.md"
+        },
+        {
+            "name": "Earthworm Jim (USA)",
+            "id": "004.md"
+        },
+        {
+            "name": "Golden Axe III (Japan) (En)",
+            "id": "005.md"
+        },
+        {
+            "name": "Golden Axe II (World)",
+            "id": "006.md"
+        },
+        {
+            "name": "Golden Axe (World)",
+            "id": "007.md"
+        },
+        {
+            "name": "Mega Bomberman (USA)",
+            "id": "008.md"
+        },
+        {
+            "name": "Michael Jackson's Moonwalker (World) (Rev A)",
+            "id": "009.md"
+        },
+        {
+            "name": "Mortal Kombat 3 (USA)",
+            "id": "00a.md"
+        },
+        {
+            "name": "Mortal Kombat II (World)",
+            "id": "00b.md"
+        },
+        {
+            "name": "Mortal Kombat (World)",
+            "id": "00c.md"
+        },
+        {
+            "name": "Sonic 3D Blast (USA, Europe, Korea) (En)",
+            "id": "00d.md"
+        },
+        {
+            "name": "Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Beta) (1994 05 24)",
+            "id": "00e.md"
+        },
+        {
+            "name": "Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock On Combination)",
+            "id": "00f.md"
+        },
+        {
+            "name": "Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock On Combination)",
+            "id": "010.md"
+        },
+        {
+            "name": "Sonic & Knuckles (World) (Lock On)",
+            "id": "011.bin"
+        },
+        {
+            "name": "Sonic & Knuckles (World)",
+            "id": "012.md"
+        },
+        {
+            "name": "Sonic Spinball (USA)",
+            "id": "013.md"
+        },
+        {
+            "name": "Sonic The Hedgehog 2 (World)",
+            "id": "014.md"
+        },
+        {
+            "name": "Sonic The Hedgehog 3 (USA)",
+            "id": "015.md"
+        },
+        {
+            "name": "Sonic The Hedgehog (USA, Europe)",
+            "id": "016.md"
+        },
+        {
+            "name": "Street Fighter II'   Special Champion Edition (USA)",
+            "id": "017.md"
+        },
+        {
+            "name": "Super Street Fighter II (USA)",
+            "id": "018.md"
+        },
+        {
+            "name": "Teenage Mutant Hero Turtles   Tournament Fighters (Europe)",
+            "id": "019.md"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles   The Hyperstone Heist (USA)",
+            "id": "01a.md"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles   Tournament Fighters (USA)",
+            "id": "01b.md"
+        },
+        {
+            "name": "Ultimate Mortal Kombat 3 (USA)",
+            "id": "01c.md"
         }
     ],
     "nes": [
         {
-            "name":"placeholder",
-            "id": "000"
+            "name": "Contra Force (USA)",
+            "id": "000.nes"
+        },
+        {
+            "name": "Contra (USA)",
+            "id": "001.nes"
+        },
+        {
+            "name": "Dr. Mario (Europe)",
+            "id": "002.nes"
+        },
+        {
+            "name": "Duck Hunt (World)",
+            "id": "003.nes"
+        },
+        {
+            "name": "DuckTales 2 (USA)",
+            "id": "004.nes"
+        },
+        {
+            "name": "DuckTales (USA)",
+            "id": "005.nes"
+        },
+        {
+            "name": "Final Fantasy III (Japan)",
+            "id": "006.nes"
+        },
+        {
+            "name": "Final Fantasy II (Japan)",
+            "id": "007.nes"
+        },
+        {
+            "name": "Final Fantasy (USA)",
+            "id": "008.nes"
+        },
+        {
+            "name": "Kirby's Adventure (USA)",
+            "id": "009.nes"
+        },
+        {
+            "name": "Mario Bros. (World)",
+            "id": "00a.nes"
+        },
+        {
+            "name": "Mario Is Missing! (USA)",
+            "id": "00b.nes"
+        },
+        {
+            "name": "Mario's Time Machine (USA)",
+            "id": "00c.nes"
+        },
+        {
+            "name": "Mega Man 2 (USA)",
+            "id": "00d.nes"
+        },
+        {
+            "name": "Mega Man 3 (USA)",
+            "id": "00e.nes"
+        },
+        {
+            "name": "Mega Man 4 (USA)",
+            "id": "00f.nes"
+        },
+        {
+            "name": "Mega Man 5 (USA)",
+            "id": "010.nes"
+        },
+        {
+            "name": "Mega Man 6 (USA)",
+            "id": "011.nes"
+        },
+        {
+            "name": "Mega Man (USA)",
+            "id": "012.nes"
+        },
+        {
+            "name": "Metroid (USA)",
+            "id": "013.nes"
+        },
+        {
+            "name": "Mike Tyson's Punch Out!! (Japan, USA) (En)",
+            "id": "014.nes"
+        },
+        {
+            "name": "Punch Out!! (USA)",
+            "id": "015.nes"
+        },
+        {
+            "name": "R.C. Pro Am II (USA)",
+            "id": "016.nes"
+        },
+        {
+            "name": "R.C. Pro Am (USA)",
+            "id": "017.nes"
+        },
+        {
+            "name": "Super Contra (Japan)",
+            "id": "018.nes"
+        },
+        {
+            "name": "Super Mario Bros. 2 (USA)",
+            "id": "019.nes"
+        },
+        {
+            "name": "Super Mario Bros. 3 (USA)",
+            "id": "01a.nes"
+        },
+        {
+            "name": "Super Mario Bros. + Duck Hunt (USA)",
+            "id": "01b.nes"
+        },
+        {
+            "name": "Super Mario Bros. + Tetris + Nintendo World Cup (Europe)",
+            "id": "01c.nes"
+        },
+        {
+            "name": "Super Mario Bros. (World)",
+            "id": "01d.nes"
+        },
+        {
+            "name": "Tetris 2 (USA)",
+            "id": "01e.nes"
+        },
+        {
+            "name": "Tetris (USA)",
+            "id": "01f.nes"
         }
     ],
     "snes": [
         {
-            "name":"placeholder",
-            "id": "000"
+            "name": "Addams Family, The (USA)",
+            "id": "000.sfc"
+        },
+        {
+            "name": "Donkey Kong Country 2   Diddy's Kong Quest (USA) (En,Fr)",
+            "id": "001.sfc"
+        },
+        {
+            "name": "Donkey Kong Country 3   Dixie Kong's Double Trouble! (USA) (En,Fr)",
+            "id": "002.sfc"
+        },
+        {
+            "name": "Donkey Kong Country (USA)",
+            "id": "003.sfc"
+        },
+        {
+            "name": "Legend Of Zelda, The   A Link To The Past (USA)",
+            "id": "004.sfc"
+        },
+        {
+            "name": "Mario Paint (Japan, USA) (En)",
+            "id": "005.sfc"
+        },
+        {
+            "name": "New Super Mario Land (World) (v.1.5) (Aftermarket) (Unl)",
+            "id": "006.sfc"
+        },
+        {
+            "name": "Super Mario All Stars + Super Mario World (USA)",
+            "id": "007.sfc"
+        },
+        {
+            "name": "Super Mario All Stars (USA)",
+            "id": "008.sfc"
+        },
+        {
+            "name": "Super Mario Kart (USA)",
+            "id": "009.sfc"
+        },
+        {
+            "name": "Super Mario RPG (Japan)",
+            "id": "00a.sfc"
+        },
+        {
+            "name": "Super Mario World 2   Yoshi's Island (USA)",
+            "id": "00b.sfc"
+        },
+        {
+            "name": "Super Mario World (USA)",
+            "id": "00c.sfc"
+        },
+        {
+            "name": "Super Metroid (Japan, USA) (En,Ja)",
+            "id": "00d.sfc"
+        },
+        {
+            "name": "Tetris 2 (USA)",
+            "id": "00e.sfc"
+        },
+        {
+            "name": "Tetris Attack (USA) (En,Ja)",
+            "id": "00f.sfc"
+        },
+        {
+            "name": "Tetris & Dr. Mario (USA)",
+            "id": "010.sfc"
         }
     ]
 }
