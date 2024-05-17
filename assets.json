@@ -1,1 +1,1 @@
-{"html":[{"type":"pointer","target":"html/assets.json"}],"rom":[{"type":"pointer","target":"rom/assets.json"}],"flash":[{"type":"pointer","target":"flash/assets.json"}]}
+{"html":[{"type":"pointer","target":"html/assets.json"}],"rom":[{"type":"pointer","target":"rom/assets.json"}],"flash":[{"type":"pointer","target":"flash/assets.json"}],"yt_playables":[{"type":"pointer","target":"yt_playables/urls.json"}]}
