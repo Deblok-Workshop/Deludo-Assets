@@ -1,8 +1,212 @@
 {
     "flash": [
         {
-            "name":"placeholder",
-            "id": "000"
+            "name": "Bloons Super Monkey",
+            "id": "000.swf"
+        },
+        {
+            "name": "Cat Mario",
+            "id": "001.swf"
+        },
+        {
+            "name": "Dino Run",
+            "id": "002.swf"
+        },
+        {
+            "name": "Duck Life 1",
+            "id": "003.swf"
+        },
+        {
+            "name": "Duck Life 2 Hacked",
+            "id": "004.swf"
+        },
+        {
+            "name": "Duck Life 2",
+            "id": "005.swf"
+        },
+        {
+            "name": "Duck Life 3 Hacked",
+            "id": "006.swf"
+        },
+        {
+            "name": "Duck Life 3",
+            "id": "007.swf"
+        },
+        {
+            "name": "Duck Life 4 Hacked",
+            "id": "008.swf"
+        },
+        {
+            "name": "Duck Life 4",
+            "id": "009.swf"
+        },
+        {
+            "name": "ElectricMan 2 Hacked",
+            "id": "00a.swf"
+        },
+        {
+            "name": "Gravity Duck Hacked",
+            "id": "00b.swf"
+        },
+        {
+            "name": "KND   Rainbow Monkey Rundown",
+            "id": "00c.swf"
+        },
+        {
+            "name": "Papa Louie 2 When Pizza's Attacked",
+            "id": "00d.swf"
+        },
+        {
+            "name": "Papa Louie 3",
+            "id": "00e.swf"
+        },
+        {
+            "name": "Papa Louie",
+            "id": "00f.swf"
+        },
+        {
+            "name": "Papa's Burgeria",
+            "id": "010.swf"
+        },
+        {
+            "name": "Papa's Cheezeria",
+            "id": "011.swf"
+        },
+        {
+            "name": "Papa's Cupcakeria",
+            "id": "012.swf"
+        },
+        {
+            "name": "Papa's Donuteria",
+            "id": "013.swf"
+        },
+        {
+            "name": "Papa's Freezeria",
+            "id": "014.swf"
+        },
+        {
+            "name": "Papa's Hotdogeria",
+            "id": "015.swf"
+        },
+        {
+            "name": "Papa's Pancakeria",
+            "id": "016.swf"
+        },
+        {
+            "name": "Papa's Pasteria",
+            "id": "017.swf"
+        },
+        {
+            "name": "Papa's Pizzeria",
+            "id": "018.swf"
+        },
+        {
+            "name": "Papa's Taco Mia",
+            "id": "019.swf"
+        },
+        {
+            "name": "Papa's Wingeria",
+            "id": "01a.swf"
+        },
+        {
+            "name": "Pokemon Tower Defense 2",
+            "id": "01b.swf"
+        },
+        {
+            "name": "Pokemon Tower Defense",
+            "id": "01c.swf"
+        },
+        {
+            "name": "Pong",
+            "id": "01d.swf"
+        },
+        {
+            "name": "Poop Clicker",
+            "id": "01e.swf"
+        },
+        {
+            "name": "Portal The Flash Version",
+            "id": "01f.swf"
+        },
+        {
+            "name": "Potty Racers 2 Hacked",
+            "id": "020.swf"
+        },
+        {
+            "name": "Potty Racers 4 Hacked",
+            "id": "021.swf"
+        },
+        {
+            "name": "Potty Racers Hacked",
+            "id": "022.swf"
+        },
+        {
+            "name": "Run 2",
+            "id": "023.swf"
+        },
+        {
+            "name": "Run And Gun",
+            "id": "024.swf"
+        },
+        {
+            "name": "Stick Squad Hacked",
+            "id": "025.swf"
+        },
+        {
+            "name": "Super Drift 3D",
+            "id": "026.swf"
+        },
+        {
+            "name": "Super Mario 63",
+            "id": "027.swf"
+        },
+        {
+            "name": "Super Mario Crossover 2",
+            "id": "028.swf"
+        },
+        {
+            "name": "Super Mario Flash",
+            "id": "029.swf"
+        },
+        {
+            "name": "Super Sudoku 2011",
+            "id": "02a.swf"
+        },
+        {
+            "name": "The Impossible Quiz",
+            "id": "02b.swf"
+        },
+        {
+            "name": "The Last Stand 2",
+            "id": "02c.swf"
+        },
+        {
+            "name": "The Last Stand 3",
+            "id": "02d.swf"
+        },
+        {
+            "name": "The Last Stand",
+            "id": "02e.swf"
+        },
+        {
+            "name": "The World's Hardest Game 2",
+            "id": "02f.swf"
+        },
+        {
+            "name": "The World's Hardest Game 3",
+            "id": "030.swf"
+        },
+        {
+            "name": "The World's Hardest Game",
+            "id": "031.swf"
+        },
+        {
+            "name": "Unfair Mario",
+            "id": "032.swf"
+        },
+        {
+            "name": "Windows Really Great Edition",
+            "id": "033.swf"
         }
     ]
 }
