@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style='position:fixed;top:0%;left:0%;width:100%;height:100%;z-index:32767;'>
+        <div id='game'></div>
+    </div>
+    
+    <script type='text/javascript'>
+        let params = document.location.hash.slice(1).split(";")
+        let cores = {"nes":"nes","megadrive":"segaMD","snes":"snes9x","ds":"melonds","n64":"n64","playstation":"psx","arcade":"arcade","gb":"mgb","gba":"mgba","saturn":"segaSaturn"}
+        EJS_player = '#game';
+        EJS_core = params[0];
+        EJS_startOnLoaded = true;
+        EJS_gameUrl = `../rom/${params[0]}/${params[1]}`; 
+        // Path to the data directory
+        EJS_pathtodata = 'ejs/data/';
+    </script>
+    <script src='ejs/data/loader.js'></script>
+    
+</body>
+</html>
