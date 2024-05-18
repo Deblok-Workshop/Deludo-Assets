@@ -12,9 +12,9 @@
     
     <script type='text/javascript'>
         let params = document.location.hash.slice(1).split(";")
-        let cores = {"nes":"nes","megadrive":"segaMD","snes":"snes9x","ds":"melonds","n64":"n64","playstation":"psx","arcade":"arcade","gb":"mgb","gba":"mgba","saturn":"segaSaturn"}
+        let cores = {"nes":"nes","megadrive":"picodrive","snes":"snes9x","ds":"melonds","n64":"n64","playstation":"psx","arcade":"arcade","gb":"mgb","gba":"mgba","saturn":"segaSaturn"}
         EJS_player = '#game';
-        EJS_core = params[0];
+        EJS_core = cores[params[0]];
         EJS_startOnLoaded = true;
         EJS_gameUrl = `../rom/${params[0]}/${params[1]}`; 
         // Path to the data directory
