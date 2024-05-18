@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>EmulatorJS Demo</title>
+        <title>Deludo EJS</title>
         <link rel = icon href = docs/favicon.ico sizes = "16x16 32x32 48x48 64x64" type = image/vnd.microsoft.icon>
         <meta name = viewport content = "width = device-width, initial-scale = 1">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+            * {font-family:"Inter Tight","Inter",sans-serif}
+        </style>
         <style>
              body, html {
                 height: 100%;
@@ -25,8 +29,8 @@
 
             #box {
                 color: #aaa;
-                height: 20em;
-                width: 30em;
+                height: 16em;
+                width: 26em;
                 max-width: 80%;
                 max-height: 80%;
                 background-color: #333;
@@ -38,7 +42,7 @@
                 overflow: hidden;
                 font-family: monospace;
                 font-weight: bold;
-                font-size: 20px;
+                font-size: 18px;
                 margin: 5px;
             }
 
@@ -97,8 +101,8 @@
 
     <body>
         <div id="top">
-            <h1>EmulatorJS Demo</h1>
-            <img src="docs/Logo-light.png" alt="Logo" class="logo">
+            <h1 style="margin-bottom:8px;">Deludo EJS</h1>
+            <a href="https://emulatorjs.org" style="font-size:12px;margin-bottom:12px;color:lightskyblue;font-weight:600;">Based off of EmulatorJS</a>
         </div>
         <div id = box>
             <input type = file id = input>
@@ -157,6 +161,9 @@
 
                     if (["d64"].includes(ext))
                         return "vice_x64sc"
+
+                    if (["md"].includes(ext))
+                        return "segaMD"
 
                     if (["nds", "gba", "gb", "z64", "n64"].includes(ext))
                         return ext
