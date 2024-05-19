@@ -49,7 +49,7 @@
             "id": "902"
         },
         {
-            "name": "Meme2048",
+            "name": "Meme 2048",
             "id": "00f"
         },
         {
@@ -57,7 +57,7 @@
             "id": "010"
         },
         {
-            "name": "Precision Client",
+            "name": "Precision Client (MC 1.5)",
             "id": "011"
         },
         {
@@ -65,35 +65,35 @@
             "id": "012"
         },
         {
-            "name": "Riddleschool",
+            "name": "Riddle School",
             "id": "013"
         },
         {
-            "name": "Riddleschool2",
+            "name": "Riddle School 2",
             "id": "014"
         },
         {
-            "name": "Riddleschool3",
+            "name": "Riddle School 3",
             "id": "015"
         },
         {
-            "name": "Riddleschool4",
+            "name": "Riddle School 4",
             "id": "016"
         },
         {
-            "name": "Riddleschool5",
+            "name": "Riddle School 5",
             "id": "017"
         },
         {
-            "name": "Riddletransfer",
+            "name": "Riddle Transfer",
             "id": "018"
         },
         {
-            "name": "Riddletransfer2",
+            "name": "Riddle Transfer 2",
             "id": "019"
         },
         {
-            "name": "Shuttledeck",
+            "name": "Shuttle Deck",
             "id": "01a"
         },
         {
@@ -113,15 +113,15 @@
             "id": "01e"
         },
         {
-            "name": "Super Mario 64",
+            "name": "Super Mario 64 (JS Port)",
             "id": "01f"
         },
         {
-            "name": "Smashkarts",
+            "name": "Smash Karts",
             "id": "020"
         },
         {
-            "name": "Smokingbarrels",
+            "name": "Smoking Barrels",
             "id": "021"
         },
         {
@@ -141,7 +141,7 @@
             "id": "025"
         },
         {
-            "name": "Spinningrat",
+            "name": "spinningrat.online",
             "id": "026"
         },
         {
@@ -149,7 +149,7 @@
             "id": "027"
         },
         {
-            "name": "Stack Bump 3d",
+            "name": "Stack Bump 3D",
             "id": "028"
         },
         {
@@ -157,39 +157,39 @@
             "id": "029"
         },
         {
-            "name": "Subway Surfers Ny",
+            "name": "Subway Surfers NY",
             "id": "02a"
         },
         {
-            "name": "Vex3",
+            "name": "Vex 3",
             "id": "02c"
         },
         {
-            "name": "Vex4",
+            "name": "Vex 4",
             "id": "02d"
         },
         {
-            "name": "Vex5",
+            "name": "Vex 5",
             "id": "02e"
         },
         {
-            "name": "Vex6",
+            "name": "Vex 6",
             "id": "02f"
         },
         {
-            "name": "Vex7",
+            "name": "Vex 7",
             "id": "030"
         },
         {
-            "name": "Webgl Fluid Simulation",
+            "name": "WebGL Fluid Simulation",
             "id": "031"
         },
         {
-            "name": "Worlds Hardest Game",
+            "name": "World's Hardest Game",
             "id": "032"
         },
         {
-            "name": "Worlds Hardest Game 2",
+            "name": "World's Hardest Game 2",
             "id": "033"
         }
     ]
