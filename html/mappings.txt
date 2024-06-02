@@ -3,7 +3,6 @@
 002 -> 2048
 003 -> 2048-multitask
 004 -> 9007199254740992
-005 -> assets
 006 -> basketball-stars
 007 -> basket-random
 008 -> boxing-random
@@ -12,7 +11,6 @@
 00b -> ducklife2
 00c -> ducklife3
 00d -> ducklife4
-00e -> eagfiles
 00f -> meme2048
 010 -> popcat-classic
 011 -> precision-client
@@ -41,7 +39,6 @@
 028 -> stack-bump-3d
 029 -> subway-surfers
 02a -> subway-surfers-ny
-02b -> thumbs
 02c -> vex3
 02d -> vex4
 02e -> vex5
@@ -50,3 +47,12 @@
 031 -> webgl-fluid-simulation
 032 -> worlds-hardest-game
 033 -> worlds-hardest-game-2
+034 -> google-feud
+035 -> happywheels
+036 -> hill-climb-racing
+037 -> idle-breakout
+038 -> idle-shark
+039 -> idledice
+03a -> impossiblequiz
+03b -> jetpack-joyride
+03c -> there-is-no-game

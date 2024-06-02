@@ -5,7 +5,7 @@
             "id": "000"
         },
         {
-            "name": "1v1.lol",
+            "name": "1v1lol",
             "id": "001"
         },
         {
@@ -37,16 +37,20 @@
             "id": "009"
         },
         {
-            "name": "Better Eaglercraft 1.8",
-            "id": "900"
+            "name": "Duck Life 1",
+            "id": "00a"
         },
         {
-            "name": "Eaglercraft 1.8",
-            "id": "901"
+            "name": "Duck Life 2",
+            "id": "00b"
         },
         {
-            "name": "Eaglercraft 1.5",
-            "id": "902"
+            "name": "Duck Life 3",
+            "id": "00c"
+        },
+        {
+            "name": "Duck Life 4",
+            "id": "00d"
         },
         {
             "name": "Meme 2048",
@@ -57,7 +61,7 @@
             "id": "010"
         },
         {
-            "name": "Precision Client (MC 1.5)",
+            "name": "Precision Client",
             "id": "011"
         },
         {
@@ -93,8 +97,12 @@
             "id": "019"
         },
         {
-            "name": "Shuttle Deck",
+            "name": "Shuttledeck",
             "id": "01a"
+        },
+        {
+            "name": "Sky Car Stunt",
+            "id": "01b"
         },
         {
             "name": "Slope",
@@ -145,8 +153,16 @@
             "id": "027"
         },
         {
-            "name": "Stack Bump 3D",
+            "name": "Stack Bump 3d",
             "id": "028"
+        },
+        {
+            "name": "Subway Surfers",
+            "id": "029"
+        },
+        {
+            "name": "Subway Surfers NY",
+            "id": "02a"
         },
         {
             "name": "Vex 3",
@@ -179,6 +195,38 @@
         {
             "name": "World's Hardest Game 2",
             "id": "033"
+        },
+        {
+            "name": "Google Feud",
+            "id": "034"
+        },
+        {
+            "name": "Happy Wheels",
+            "id": "035"
+        },
+        {
+            "name": "Hill Climb Racing",
+            "id": "036"
+        },
+        {
+            "name": "Idle Breakout",
+            "id": "037"
+        },
+        {
+            "name": "Idle Shark",
+            "id": "038"
+        },
+        {
+            "name": "Idle Dice",
+            "id": "039"
+        },
+        {
+            "name": "Impossible Quiz",
+            "id": "03a"
+        },
+        {
+            "name": "Jetpack Joyride",
+            "id": "03b"
         }
     ]
 }
